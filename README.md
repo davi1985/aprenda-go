@@ -1,59 +1,59 @@
 # Go: Aprenda a Programar com a Linguagem do Google
 
-01 - Visão Geral do Curso
+- [x] Visão Geral do Curso
 
-02 - Variáveis, Valores & tipos
+- [ ] Variáveis, Valores & tipos
 
-03 - Exercícios: Ninja Nível 1
+- [ ] Exercícios: Ninja Nível 1
 
-04 - Fundamentos da Programação
+- [ ] Fundamentos da Programação
 
-05 - Exercícios: Ninja Nível 2
+- [ ] Exercícios: Ninja Nível 2
 
-06 - Fluxo de Controle
+- [ ] Fluxo de Controle
 
-07 - Exercícios: Ninja Nível 3
+- [ ] Exercícios: Ninja Nível 3
 
-08 - Agrupamentos de Dados
+- [ ] Agrupamentos de Dados
 
-09 - Exercícios: Ninja Nível 4
+- [ ] Exercícios: Ninja Nível 4
 
-10 - Structs
+- [ ] Structs
 
-11 - Exercícios: Ninja Nível 5
+- [ ] Exercícios: Ninja Nível 5
 
-12 - Funções
+- [ ] Funções
 
-13 - Exercícios: Ninja Nível 6
+- [ ] Exercícios: Ninja Nível 6
 
-14 - Ponteiros
+- [ ] Ponteiros
 
-15 - Exercícios: Ninja Nível 7
+- [ ] Exercícios: Ninja Nível 7
 
-16 - Aplicação
+- [ ] Aplicação
 
-17 - Exercícios: Ninja Nível 8
+- [ ] Exercícios: Ninja Nível 8
 
-18 - Concorrência
+- [ ] Concorrência
 
-19 - Seu Ambiente de Desenvolvimento
+- [ ] Seu Ambiente de Desenvolvimento
 
-20 - Exercícios: Ninja Nível 9
+- [ ] Exercícios: Ninja Nível 9
 
-21 - Canais
+- [ ] Canais
 
-22 - Exercícios: Ninja Nível 10
+- [ ] Exercícios: Ninja Nível 10
 
-23 - Tratamento de Erros
+- [ ] Tratamento de Erros
 
-24 - Exercícios: Ninja Nível 11
+- [ ] Exercícios: Ninja Nível 11
 
-25 - Escrevendo Documentação
+- [ ] Escrevendo Documentação
 
-26 - Exercícios: Ninja Nível 12
+- [ ] Exercícios: Ninja Nível 12
 
-27 - Testes & Benchmarking
+- [ ] Testes & Benchmarking
 
-28 - Exercícios: Ninja Nível 13
+- [ ] Exercícios: Ninja Nível 13
 
-29 - Considerações Finais
+- [ ] Considerações Finais
